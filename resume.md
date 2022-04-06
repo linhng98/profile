@@ -22,7 +22,7 @@ I have a technology-driven mindset, favor automation, and look for ways to do ta
   - Provision and operate Rook Ceph clusters for object storages and persistent volumes solution
   - Migrate Prometheus stand-alone to Prometheus Operator which supports sharding and replicas, improves high availability and scalability
   - Centralize Prometheus metrics using Cortex
-  - Create and maintain data analytics and footprints using OpenSearch and Kafka clusters
+  - Create and maintain OpenSearch and Kafka clusters for data analytics
   - Customize Helm charts to adapt flexible usecases
 
 - **Startup Co-Founder/Tech Lead (March 2021 - Present) - HubTech**
