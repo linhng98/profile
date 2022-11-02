@@ -49,7 +49,7 @@ I have a technology-driven mindset, favor automation, and look for ways to do ta
 
 ## Open-source Projects
 - **Dynamic Secret Operator [linhng98/dynamic-secret-operator](https://github.com/linhng98/dynamic-secret-operator)**: a Kubernetes operator written in Go (Operator Framework) which generates secrets dynamically
-- **MessAround [linhng98/homelab](https://github.com/linhng98/mess-around)**: this is a playground where I can apply and experiment with many tools and technologies such as Cortex, OpenTelemetry, Rook, etc.
+- **MessAround [linhng98/mess-around](https://github.com/linhng98/mess-around)**: playground to demonstrate many awesome devops tools, enforce gitops pattern, build scalable and sustainable application cluster
 
 ## Education
 - [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn) (HCMUS) - Bachelor of Science in Information Technology
