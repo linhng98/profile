@@ -6,6 +6,8 @@
 - Mobile: (+84) 70-446-8256
 - Email: linhnguyen.workspace@gmail.com
 - GitHub: [https://github.com/linhng98](https://github.com/linhng98)
+- Linkedin: [https://www.linkedin.com/in/nvlinh98](https://www.linkedin.com/in/nvlinh98/)
+- Leetcode: [https://leetcode.com/user7200iD](https://leetcode.com/user7200iD)
 
 ## About Me
 I have a technology-driven mindset, favor automation, and look for ways to do tasks more efficiently. I also spend a lot of time looking for and learning new things for the sole purpose of 'raising my own value.' In addition, I am constantly open to new challenges as excellent opportunities to broaden my knowledge and expertise.
