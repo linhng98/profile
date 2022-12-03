@@ -7,7 +7,7 @@
 - Email: linhnguyen.workspace@gmail.com
 - GitHub: [https://github.com/linhng98](https://github.com/linhng98)
 - Linkedin: [https://www.linkedin.com/in/nvlinh98](https://www.linkedin.com/in/nvlinh98/)
-- Leetcode: [https://leetcode.com/user7200iD](https://leetcode.com/user7200iD)
+- Leetcode: [https://leetcode.com/linhng98/](https://leetcode.com/linhng98/)
 
 ## About Me
 I have a technology-driven mindset, favor automation, and look for ways to do tasks more efficiently. I also spend a lot of time looking for and learning new things for the sole purpose of 'raising my own value.' In addition, I am constantly open to new challenges as excellent opportunities to broaden my knowledge and expertise.
@@ -20,11 +20,11 @@ I have a technology-driven mindset, favor automation, and look for ways to do ta
 
 ## Experiences
 - **DevSecOps Engineer (November 2021 - Present) – Cinnamon AI**
-  - Lay foundation for infrastructure as code, automation and CI/CD to company
-  - Work with multicloud provider (Azure, AWS, GCP), depend on client requirement 
+  - Lay foundation for infrastructure as code, CI/CD with CircleCI for company
+  - Work with multicloud provider (Azure, AWS, GCP), adapt flexible client requirement 
   - Release production on client environment with strict security requirement
-  - Apply GPU sharing using virtual GPU technology, save the cost of infrastructure on dev environment
-  - Monorepo setup with semantic release
+  - Apply GPU sharing using Nvidia time-sclicing technology, save the cost of infrastructure, allow schedule multiple ai pipeline on same gpu node, optimize cloud resource usage
+  - Version management with semantic-release (support both single repo and mono repo), auto generate release tag, release message and change log based on commit message, stick with semver convention and best practice
 
 - **Startup Co-Founder/Tech Lead (March 2021 - Present) - HubTech**
   - Setup infrastructure for development and production, apply various modern technologies stack including Google Kubernetes Engine, GitLab CI/CD, Kaniko, ArgoCD, and Terraform
