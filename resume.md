@@ -9,8 +9,8 @@
 - Linkedin: [https://www.linkedin.com/in/nvlinh98](https://www.linkedin.com/in/nvlinh98/)
 
 ## About Me
-I have a technology-driven mindset, favor automation, and look for ways to do tasks more efficiently. I also spend a lot of time looking for and learning new things for the sole purpose of 'raising my own value.' In addition, I am constantly open to new challenges as excellent opportunities to broaden my knowledge and expertise.
-                                                                   
+I favor automation, have a technology-driven attitude, and am constantly looking for ways to complete jobs faster. In addition, I invest a lot of time in learning new things out of pure "curiousity about how things work under the hood". Additionally, I continuously view new obstacles as fantastic chances to increase my knowledge and expertise.
+
 ## Skills
 - **Platforms**: Google Cloud, AWS, Azure, Kubernetes
 - **Tools**: GitLab CI/CD, GitHub Actions, CircleCI, ArgoCD, Docker, Terraform, Terragrunt, Ansible, Prometheus, Grafana, Helm, Cortex, Thanos, Istio, Rook, Kafka, Loki
