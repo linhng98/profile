@@ -53,7 +53,7 @@ I favor automation, have a technology-driven attitude, and constantly looking fo
   - Used Fluentd and Elasticsearch to centralize application logs
   - Monitored infrastructure using Prometheus, Grafana, and OpsGenie
 
-- **Backend Developer (June 2020 - Septetmber 2020) - Halocom**
+- **Backend Developer (June 2020 - September 2020) - Halocom**
   - Develop marketing platform using fastAPI and gin framework
   - Get used to kurbernetes
 
