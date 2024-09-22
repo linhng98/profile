@@ -9,7 +9,7 @@
 - Linkedin: [https://www.linkedin.com/in/nvlinh98](https://www.linkedin.com/in/nvlinh98/)
 
 ## About Me
-I favor automation, have a technology-driven attitude, and constantly looking for ways to complete jobs faster. In addition, I invest a lot of time in learning new things out of pure "curiousity about how things work under the hood". Additionally, I continuously view new obstacles as fantastic chances to increase my knowledge and expertise.
+I favor automation, have a technology-driven attitude, and am constantly looking for ways to complete tasks more efficiently. Additionally, I invest a lot of time in learning new things out of pure curiosity about how things work under the hood. I also view new challenges as great opportunities to expand my knowledge and expertise
 
 ## Skills
 - **Platforms**: Google Cloud, AWS, Azure, Kubernetes
