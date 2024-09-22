@@ -19,39 +19,39 @@ I favor automation, have a technology-driven attitude, and constantly looking fo
 
 ## Experiences
 - **DevSecOps Engineer (May 2022 - Present) – Cinnamon AI**
-  - Lay foundation for infrastructure as code, CI/CD with CircleCI for company
-  - Work with multicloud provider (Azure, AWS, GCP), adapt flexible client requirement 
-  - Release production on client environment with strict security requirement
-  - Apply GPU sharing using Nvidia time-sclicing technology, save the cost of infrastructure, allow schedule multiple ai pipeline on same gpu node, optimize cloud resource usage
-  - Version management with semantic-release (support both single repo and mono repo), auto generate release tag, release message and change log based on commit message, stick with semver convention and best practice
-  - Design and implement disaster recovery architecture for enterprise client
-  - Centralize secret management with Hashicorp Vautl, control fine-grained access permission with OIDC role
-  - Migrate CI/CD from CircleCI to Github Action
-  - Introduce tracing concept and strictly collaborate with developer to apply it on production environment
+  - Established a foundation for infrastructure as code and CI/CD using CircleCI for the company
+  - Collaborated with multiple cloud providers (Azure, AWS, GCP) to design and implement various deployment models tailored to client needs
+  - Implemented GPU sharing with Nvidia time-slicing technology to reduce infrastructure costs, enabling scheduling of multiple AI pipelines on the same GPU node and optimizing cloud resource usage
+  - Developed a GPU usage exporter to expose VRAM usage metrics per container, providing greater insight into resource utilization
+  - Managed versioning with semantic-release, supporting both single and mono repositories, to automatically generate release tags, messages, and changelogs based on commit messages while adhering to SemVer conventions and best practices
+  - Designed and implemented disaster recovery architecture for enterprise clients
+  - Centralized secret management with HashiCorp Vault, enforcing fine-grained access control permissions using OIDC roles
+  - Migrated CI/CD processes from CircleCI to GitHub Actions to reduce company expenses and improve control and structure of templates
+  - Introduced tracing concepts and closely collaborated with developers to implement OpenTelemetry in the production environment
 
 - **Startup Co-Founder/DevOps (March 2021 - Present) - HubTech**
-  - Setup infrastructure for development and production, apply various modern technologies stack including Google Kubernetes Engine, GitLab CI/CD, Kaniko, ArgoCD, and Terraform, Github Action
-  - Develop chat and notification services using Gorilla WebSocket and NATS Pub-Sub
-  - Develop an identity service to provide user authentication, authorization, management, and Google single sign-on 
-  - Build upload service with integrated image processing feature using bimg library
-  - Migrate infrastructure from GCP to on-premise environment to save cost
+  - Set up infrastructure for development and production using a modern tech stack, including Google Kubernetes Engine, GitLab CI/CD, Kaniko, ArgoCD, Terraform, and GitHub Actions
+  - Developed chat and notification services utilizing Gorilla WebSocket and NATS Pub-Sub
+  - Created an identity service for user authentication, authorization, and management, including Google Single Sign-On
+  - Built an upload service with integrated image processing features using the bimg library
+  - Migrated infrastructure from GCP to an on-premises environment to reduce costs
 
 - **Site Reliability Engineer (September 2021 - May 2022) – Teko**
-  - Tuning and bootstrap Kubernetes clusters for on-premise infrastructure using Rancher Kubernetes Engine
-  - Provision and operate Rook Ceph clusters for object storages and persistent volumes solution
-  - Migrate Prometheus stand-alone to Prometheus Operator which supports sharding and replicas, improves high availability and scalability
-  - Centralize Prometheus metrics using Cortex
-  - Create and maintain OpenSearch and Kafka clusters for data analytics
-  - Customize Helm charts to adapt flexible usecases
+  - Tuned and bootstrapped Kubernetes clusters for on-premises infrastructure using Rancher Kubernetes Engine
+  - Provisioned and operated Rook Ceph clusters for object storage and persistent volume solutions
+  - Migrated from a standalone Prometheus setup to Prometheus Operator, enabling sharding and replicas to enhance high availability and scalability
+  - Centralized Prometheus metrics using Cortex to provide a single point of observability
+  - Created and maintained OpenSearch and Kafka clusters for data analytics
+  - Customized Helm charts to support multiple workload resources with flexible options
 
 - **DevOps Engineer (September 2020 - August 2021) – Yeah1**
-  - Collaborate closely with developers on diagnosing, containerizing applications and optimizing cache layers
-  - Utilizing Terraform/Terragrunt to provision Google Cloud Platform (GCP) resources using infrastructure as code
-  - Migrate continuous delivery system from Spinnaker to ArgoCD
-  - Experiment with the Istio service mesh system
+  - Collaborated closely with developers to diagnose, containerize applications, and optimize cache layers
+  - Utilized Terraform/Terragrunt to provision Google Cloud Platform (GCP) resources through infrastructure as code
+  - Migrated the continuous delivery system from Spinnaker to ArgoCD
+  - Experimented with the Istio service mesh system
   - Built Cloudflare RBAC wrapper tool using Golang and React
-  - Using Fluentd and ElasticSearch to centralize apps logs
-  - Observe infrastructure by using Prometheus, Grafana, and OpsGenie
+  - Used Fluentd and Elasticsearch to centralize application logs
+  - Monitored infrastructure using Prometheus, Grafana, and OpsGenie
 
 - **Backend Developer (June 2020 - Septetmber 2020) - Halocom**
   - Develop marketing platform using fastAPI and gin framework
