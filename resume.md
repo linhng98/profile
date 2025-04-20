@@ -47,17 +47,12 @@ I favor automation, have a technology-driven attitude, and am constantly looking
   - Customized Helm charts to support multiple workload resources with flexible options
 
 - **DevOps Engineer (September 2020 - August 2021) – Yeah1**
-  - Collaborated closely with developers to diagnose, containerize applications, and optimize cache layers
   - Utilized Terraform/Terragrunt to provision Google Cloud Platform (GCP) resources through infrastructure as code
   - Migrated the continuous delivery system from Spinnaker to ArgoCD
   - Experimented with the Istio service mesh system
   - Built Cloudflare RBAC wrapper tool using Golang and React
   - Used Fluentd and Elasticsearch to centralize application logs
   - Monitored infrastructure using Prometheus, Grafana, and OpsGenie
-
-- **Backend Developer (June 2020 - September 2020) - Halocom**
-  - Develop marketing platform using fastAPI and gin framework
-  - Get used to kurbernetes
 
 ## Open-source Projects
 - **Dynamic Secret Operator [linhng98/dynamic-secret-operator](https://github.com/linhng98/dynamic-secret-operator)**: a Kubernetes operator written in Go (Operator Framework) which generates secrets dynamically
