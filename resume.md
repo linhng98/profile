@@ -23,13 +23,13 @@ I favor automation, have a technology-driven attitude, and am constantly looking
   - Collaborated with multiple cloud providers (Azure, AWS, GCP) to design and implement various deployment models tailored to client needs
   - Bootstrapped infrastructure accross multiple cloud providers using Atlantis, Terraform and Terragrunt, enabling a GitOps workflow for managing infrastructure as code
   - Enforced keyless authentication for all cloud providers, eliminating the need for static credentials and enhancing security via federated oidc workload identity
-  - Centralized secret management with HashiCorp Vault, enforcing fine-grained access control permissions using OIDC roles and policies, and integrated with github actions and Azure AD
+  - Centralized secret management with HashiCorp Vault, grant fine-grained access control permissions using OIDC roles and policies, and integrated with github actions and Azure AD
   - Implemented GPU sharing with Nvidia time-slicing technology to reduce infrastructure costs, enabling scheduling of multiple AI pipelines on the same GPU node and optimizing cloud resource usage
   - Developed a GPU usage exporter to expose VRAM usage metrics per container, providing greater insight into resource utilization
   - Seamlessly scale Kubernetes clusters with KEDA and graceful termination sidecar, enabling automatic scaling of workloads based on number of pending jobs in the queue
   - Managed versioning with semantic-release, supporting both single and mono repositories, to automatically generate release tags, messages, and changelogs based on commit messages while adhering to SemVer conventions and best practices
   - Designed and implemented disaster recovery architecture for enterprise clients
-  - Introduced tracing concepts and closely collaborated with developers to implement OpenTelemetry in the complex AI pipelines orchestrator product
+  - Introduced distributed tracing concepts and closely collaborated with developers to integrate OpenTelemetry into the AI pipelines orchestrator product
 
 - **Startup Co-Founder/DevOps (March 2021 - March 2024) - HubTech**
   - Set up infrastructure for development and production using a modern tech stack, including Google Kubernetes Engine, GitLab CI/CD, Kaniko, ArgoCD, Terraform, and GitHub Actions
